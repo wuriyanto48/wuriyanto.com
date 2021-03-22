@@ -167,9 +167,9 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "opensource"
-    name       = "Opensources"
+    name       = "Opensource"
     url        = "http://opensource.wuriyanto.com/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
+    identifier = "blog"
+    name       = "Blog"
     url        = "http://teknologipedia.id?reference=wuriyanto.com"
